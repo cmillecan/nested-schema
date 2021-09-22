@@ -1,14 +1,14 @@
-#Nested Schema 
+# Nested Schema 
 
 The `NestedSchemaTable` component takes in two structs, `schemaA` and `schemaB` and visualizes the delta between them:\
 Green highlighted rows indicate fieldpaths that exist in A but do not exist in B. Red highlighted rows indicate fieldpaths that exist in B but do not exist in A.  
 
 ![nestedschema](src/images/nestedschema.png)
 
-##Technologies
+## Technologies
 `React.js`
 
-##Installation
+## Installation
 
 Clone this repository:\
 `git clone https://github.com/cmillecan/`
