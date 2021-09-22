@@ -1,0 +1,19 @@
+.navbar-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 0 5px #cacaca;
+}
+
+.nav-btn {
+    margin: 15px 5px 15px 25px;
+}
+
+.nav-btn button {
+    height: 35px;
+    width: 135px;
+    margin-right: 20px;
+    border-radius: 6px;
+    font-size: 15px;
+}
