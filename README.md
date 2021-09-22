@@ -11,7 +11,7 @@ Green highlighted rows indicate fieldpaths that exist in A but do not exist in B
 ## Installation
 
 Clone this repository:\
-`git clone https://github.com/cmillecan/`
+`git clone https://github.com/cmillecan/nested-schema`
 
 From the project root directory:
 
